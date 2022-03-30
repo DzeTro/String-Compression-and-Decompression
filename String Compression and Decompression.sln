@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Compression and Decompression", "String Compression and Decompression\String Compression and Decompression.csproj", "{BD10E854-2888-4BB6-B56A-9B2ACDF02F39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD10E854-2888-4BB6-B56A-9B2ACDF02F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD10E854-2888-4BB6-B56A-9B2ACDF02F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD10E854-2888-4BB6-B56A-9B2ACDF02F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD10E854-2888-4BB6-B56A-9B2ACDF02F39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C65C5DB-EA05-4DCA-8750-4F5763709E31}
+	EndGlobalSection
+EndGlobal
